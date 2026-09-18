@@ -1,0 +1,6 @@
+{
+  "name": "English Buddy AI",
+  "description": "Personal mobile-first AI English tutor for university students with voice speaking, Urdu explanations, grammar, vocabulary, and communication skills.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
