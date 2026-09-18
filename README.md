@@ -55,4 +55,4 @@ No license has been added yet.
 ---
 
 **English Buddy AI — Speak. Practice. Improve.**
-<img width="855" height="524" alt="image" src="https://github.com/user-attachments/assets/e763ecbd-f9d0-497a-9085-247b84e99a9a" />
+
